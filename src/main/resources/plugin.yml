@@ -1,0 +1,5 @@
+name: PearlCooldown
+version: '${project.version}'
+main: it.mauro.pearlcooldown.Main
+api-version: '1.19'
+load: STARTUP
